@@ -1,0 +1,12 @@
+#home h1 {
+    color: red;
+}
+#about h1 {
+    color: green;
+}
+#contact h1 {
+    color: blue;
+}
+p {
+    color: grey;
+}

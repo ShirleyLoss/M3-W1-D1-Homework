@@ -1,0 +1,19 @@
+{
+  "name": "m3-w1-d1-homework",
+  "version": "1.0.0",
+  "description": "M3-W1-D1-Homework",
+  "main": "server.js",
+  "scripts": {
+    "test": "git repository, keywords"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShirleyLoss/M3-W1-D1-Homework.git"
+  },
+  "author": "Miao Shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShirleyLoss/M3-W1-D1-Homework/issues"
+  },
+  "homepage": "https://github.com/ShirleyLoss/M3-W1-D1-Homework#readme"
+}
